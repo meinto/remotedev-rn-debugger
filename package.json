@@ -73,7 +73,7 @@
   "dependencies": {
     "chalk": "^2.0.1",
     "minimist": "^1.2.0",
-    "remotedev-server": "^0.2.4",
+    "remotedev-server": "meinto/remotedev-server#fix/tobias/react-native-0.60.0",
     "semver": "^5.4.1"
   },
   "peerDependencies": {
