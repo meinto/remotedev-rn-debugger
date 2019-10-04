@@ -5,7 +5,8 @@
   "main": "lib/main.js",
   "files": [
     "bin",
-    "src"
+    "lib",
+    "bundle.js"
   ],
   "bin": {
     "remotedev-debugger": "bin/cli.js",

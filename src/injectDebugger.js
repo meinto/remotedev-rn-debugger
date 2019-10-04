@@ -23,7 +23,7 @@ export const fileInfos = {
     '0.60.0-rc.0': {
       dir: 'node_modules/@react-native-community/cli/build/commands/server/debugger-ui',
       file: 'index.html',
-      path: 'node_modules/@react-native-community/cli/build/commands/server/debugger-ui/index.html'
+      path: 'node_modules/@react-native-community/cli/build/commands/server/debugger-ui/index.html',
     },
   },
   default: {
