@@ -7,7 +7,7 @@ const startFlag = `/* ${name} start */`;
 const endFlag = `/* ${name} end */`;
 const serverFlag = '    _server(argv, config, resolve, reject);';
 
-export const dir = 'local-cli/server';
+export const dir = 'node_modules/@react-native-community/cli/build/commands/server';
 export const file = 'server.js';
 export const fullPath = path.join(dir, file);
 
